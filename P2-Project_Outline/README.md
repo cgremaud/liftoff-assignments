@@ -16,7 +16,7 @@ Helping Hands is a neighborhood-based mutual aid app. It is intended to solve fo
 ### Technologies
 - Frontend: React
 - Backend: Java/Spring or Express/Node (undecided)
-- Data/Persistence: MongoDB/Mongoos or MySQL/Hibernate
+- Data/Persistence: MongoDB/Mongoose or MySQL/Hibernate
 ### What I'll Have to Learn
 - I will need to develop my basic understanding of React to build a more appealing and user-friendly UI.
 - I will need to become more familiar with Express/MongoDB architechture
