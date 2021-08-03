@@ -7,12 +7,19 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Helping Hands is a neighborhood-based mutual aid app. It is intended to solve for the lack of strong social safety nets in our communities and connect people in need with others who have surpluses of various essential items (food, school supplies, toiletries etc.). The ultimate goal of the app is to help bring people together in trying times and foster strong, self-supporting local communities. 
 ### Features
-Include Features here
+- Users can create accounts and log in and out.
+- Users can create lists of supplies they need and lists of supplies they have to donate.
+- Users will be automatically matched with others who need their surplus items and vice versa. 
+- Release 2 will hopefully include Google Maps API integration. 
 ### Technologies
-Include Technologies here
+- Frontend: React
+- Backend: Java/Spring or Express/Node (undecided)
+- Data/Persistence: MongoDB/Mongoos or MySQL/Hibernate
 ### What I'll Have to Learn
-Include what you will need to learn here
+- I will need to develop my basic understanding of React to build a more appealing and user-friendly UI.
+- I will need to become more familiar with Express/MongoDB architechture
+- I will need to learn how to integrate the Google Maps API into a project. 
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/cw3xqQ13/liftoffaug2021a
